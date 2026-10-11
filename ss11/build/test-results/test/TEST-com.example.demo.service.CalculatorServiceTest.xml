@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Unit Test cho CalculatorService" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-10-11T16:18:35.742Z" hostname="LAPTOP-AF0V7FTO" time="0.026">
+  <properties/>
+  <testcase name="Kiểm tra phép chia cho 0 phải ném ngoại lệ IllegalArgumentException" classname="com.example.demo.service.CalculatorServiceTest" time="0.012"/>
+  <testcase name="Kiểm tra phép cộng hai số dương" classname="com.example.demo.service.CalculatorServiceTest" time="0.002"/>
+  <testcase name="Kiểm tra phép trừ" classname="com.example.demo.service.CalculatorServiceTest" time="0.001"/>
+  <testcase name="Kiểm tra phép chia hợp lệ" classname="com.example.demo.service.CalculatorServiceTest" time="0.002"/>
+  <testcase name="Kiểm tra phép nhân" classname="com.example.demo.service.CalculatorServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
